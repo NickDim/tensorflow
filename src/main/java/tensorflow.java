@@ -1,4 +1,8 @@
-import org.tensorflow.*;
+import org.tensorflow.Graph;
+import org.tensorflow.Session;
+import org.tensorflow.Tensor;
+import org.tensorflow.TensorFlow;
+
 public class tensorflow {
   public static void main(String[] args) throws Exception {
     try (Graph g = new Graph()) {
