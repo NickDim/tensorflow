@@ -14,6 +14,3 @@ out/
 
 # When Bash on Windows fails
 bash.exe.stackdump
-gradle/
-gradlew
-gradlew.bat
